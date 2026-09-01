@@ -193,7 +193,7 @@ Prototype link (Receptionist ) : https://www.figma.com/proto/gXTkL93UOoGjnRkK4Su
 Prototype link (Lab Technician) : https://www.figma.com/proto/gXTkL93UOoGjnRkK4SumxY/Rec-and-Lab-Tech?node-id=10-4454&t=IcqoAR7oEA8WYW9h-1
 
 
-<img width="2418" height="440" alt="image" src="https://github.com/user-attachments/assets/02fe5ac9-3027-47bd-83eb-87346d37988e" />
+
 
 ## 📄 Full Documentation
 
