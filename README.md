@@ -180,6 +180,21 @@ All screens below are Figma prototypes designed per role. Full-resolution files 
 
 Task tracking and progress were managed on Trello: **[Radium Diagnostic Center (Group C)](https://trello.com/b/UB4WUSAL)**
 
+## prototype 
+
+Prototype link (Patient) :https://www.figma.com/proto/NQBqKhp20aIS67vwOlsTBl/Patient?node-id=1-1390&t=YhUBHWJjaoRqFPht-1
+
+Prototype link (Doctor ) :https://www.figma.com/proto/bXlISwiib6teyBLWoOHgMf/Doctor-and-Admin?node-id=12-46&t=eTj5yN7VcjrXlefX-1
+
+Prototype link ( Admin) :https://www.figma.com/proto/bXlISwiib6teyBLWoOHgMf/Doctor-and-Admin?node-id=0-1&t=eTj5yN7VcjrXlefX-1
+
+Prototype link (Receptionist ) : https://www.figma.com/proto/gXTkL93UOoGjnRkK4SumxY/Rec-and-Lab-Tech?node-id=12-238&t=IcqoAR7oEA8WYW9h-1
+
+Prototype link (Lab Technician) : https://www.figma.com/proto/gXTkL93UOoGjnRkK4SumxY/Rec-and-Lab-Tech?node-id=10-4454&t=IcqoAR7oEA8WYW9h-1
+
+
+<img width="2418" height="440" alt="image" src="https://github.com/user-attachments/assets/02fe5ac9-3027-47bd-83eb-87346d37988e" />
+
 ## 📄 Full Documentation
 
 The complete Software Requirements Specification — including background & problem analysis, process model justification, Gantt chart, user stories, requirements traceability matrix, and use case diagram — is available in [`docs/SE_-_Project_Report_Group_C.pdf`](./docs/SE_-_Project_Report_Group_C.pdf).
